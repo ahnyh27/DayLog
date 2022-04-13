@@ -145,7 +145,6 @@
 				C8F08953B57229A54C7C8629 /* Pods-DayLog-DayLogTests.debug.xcconfig */,
 				683AE58ECFC9E160C941D6E9 /* Pods-DayLog-DayLogTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZH39X3MM6V;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = DayLog/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZH39X3MM6V;
 				INFOPLIST_FILE = DayLog/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
